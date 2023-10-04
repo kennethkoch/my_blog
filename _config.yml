@@ -29,9 +29,11 @@ twitter_username: hyperspacebound
 github_username:  kennethkoch
 
 # Build settings
-theme: minima
+
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
