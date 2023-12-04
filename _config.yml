@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website. I write about technology and other random stuff
   including different projects I'm working on.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hyperspacebound
+url: "https://www.kennykoch.com/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kennethkoch
 
 # Build settings
@@ -37,11 +36,8 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
-    - { platform: linkedin, user_url: "https://twitter.com/jekyllrb" }
-    - { platform: instagram, user_url: "https://twitter.com/jekyllrb" }
-
+    - { platform: github,  user_url: "https://github.com/kennethkoch" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/kenny-koch" }
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
